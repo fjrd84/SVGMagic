@@ -3,14 +3,15 @@ body{
 }
 
 .simple-circle{
-    color:blue;
+    color: rgba(1, 1, 140, 0.59);
 }
 
 #svg-playground{
     top: 0px;
+    left: 0px;
     position: absolute;
     overflow: hidden;
     width: 100vw;
     height: 100vh;
-    background-color: aliceblue;
+    background-color: black;
 }
